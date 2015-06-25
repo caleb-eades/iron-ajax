@@ -203,7 +203,7 @@ iron-request can be used to perform XMLHttpRequests.
       // returns. Hence, caching it as `xhr._responseType`.
       xhr.responseType = xhr._responseType = (options.handleAs || 'text');
       xhr.withCredentials = !!options.withCredentials;
-      xhr.timeout = timeout;
+      xhr.timeout = options.timeout;
 
       xhr.send(options.body);
 
