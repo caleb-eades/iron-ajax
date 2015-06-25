@@ -17,10 +17,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/PolymerElements/iron-ajax.git"
+    "url": "git://github.com/IchigoKyger/iron-ajax.git"
   },
   "license": "http://polymer.github.io/LICENSE.txt",
-  "homepage": "https://github.com/PolymerElements/iron-ajax",
+  "homepage": "https://github.com/IchigoKyger/iron-ajax",
   "ignore": [],
   "dependencies": {
     "promise-polyfill": "polymerlabs/promise-polyfill#^1.0.0",
